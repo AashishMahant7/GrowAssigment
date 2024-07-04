@@ -1,0 +1,51 @@
+[
+    {
+      "department": "customer_service",
+      "sub_departments": ["support", "customer_success"]
+    },
+    {
+      "department": "design",
+      "sub_departments": ["graphic_design", "product_design", "web_design"]
+    },
+    {
+      "department": "engineering",
+      "sub_departments": ["frontend", "backend", "devops"]
+    },
+    {
+      "department": "human_resources",
+      "sub_departments": ["recruitment", "employee_relations", "training"]
+    },
+    {
+      "department": "marketing",
+      "sub_departments": ["content_marketing", "seo", "ppc"]
+    },
+    {
+      "department": "sales",
+      "sub_departments": ["inside_sales", "field_sales", "sales_operations"]
+    },
+    {
+      "department": "finance",
+      "sub_departments": ["accounting", "budgeting", "payroll"]
+    },
+    {
+      "department": "legal",
+      "sub_departments": ["corporate_law", "compliance", "intellectual_property"]
+    },
+    {
+      "department": "operations",
+      "sub_departments": ["logistics", "supply_chain", "facility_management"]
+    },
+    {
+      "department": "product",
+      "sub_departments": ["product_management", "product_strategy", "product_research"]
+    },
+    {
+      "department": "it",
+      "sub_departments": ["technical_support", "network_administration", "cybersecurity"]
+    },
+    {
+      "department": "administration",
+      "sub_departments": ["office_management", "executive_assistance", "facility_services"]
+    }
+  ]
+  
